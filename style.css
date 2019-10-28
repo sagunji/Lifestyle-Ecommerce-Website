@@ -36,4 +36,8 @@ footer{padding: 10px 0;
   }
  .container_style{margin-top: 80px;
  }
-         
+
+ .m-auto {
+    margin: auto;
+ }
+ 
